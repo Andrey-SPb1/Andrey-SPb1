@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Andrey
-- 👀 I’m interested in programming in java language
-- 🌱 I’m currently learning courses from [@dmdev2020](https://github.com/dmdev2020)
-- 😉 If you want to reach me write to me in the telegram -> [druchezz](https://t.me/druchezz). I'm waiting.
-- ⚡ Fun fact: Every word that i've wrote here, i checked in the translator a few times
+- 👋 Hi, I’m Andrey and i'm junior java backend developer
+- 🌱 I completed the courses from [@dmdev2020](https://github.com/dmdev2020)
+- 😉 If you want to contact me write to me in the telegram -> [druchezz](https://t.me/druchezz)
