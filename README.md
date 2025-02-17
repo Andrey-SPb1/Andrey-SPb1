@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Andrey and i'm junior java backend developer
-- 🌱 I completed the courses from [@dmdev2020](https://github.com/dmdev2020)
+- 👋 Hi, I’m Andrey and i'm java backend developer
 - 😉 If you want to contact me write to me in the telegram -> [druchezz](https://t.me/druchezz)
